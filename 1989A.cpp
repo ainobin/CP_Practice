@@ -1,8 +1,8 @@
 // This Code is written by Nobin
 // Verdict: AC 
-// problem linK: 
-// problem: 
-// aproch: 
+// problem linK: https://codeforces.com/contest/1989/problem/A
+// problem: A. Catch the Coin
+// aproch: Inmplementation
 #include<bits/stdc++.h>
 
 using namespace std;
