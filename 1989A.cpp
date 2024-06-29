@@ -1,5 +1,8 @@
 // This Code is written by Nobin
-
+// Verdict: AC 
+// problem linK: 
+// problem: 
+// aproch: 
 #include<bits/stdc++.h>
 
 using namespace std;
