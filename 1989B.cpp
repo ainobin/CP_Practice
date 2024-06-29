@@ -1,8 +1,8 @@
 // This Code is written by Nobin
 // Verdict: AC 
-// problem linK: 
-// problem: 
-// aproch: 
+// problem linK: https://codeforces.com/contest/1989/problem/B
+// problem: B. Substring and Subsequence
+// aproch: Greedy
 
 #include<bits/stdc++.h>
 
